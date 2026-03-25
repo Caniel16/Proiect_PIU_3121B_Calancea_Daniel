@@ -1,0 +1,11 @@
+C:\Users\user\Documents\MediaTracker\Media_file\bin\Debug\net8.0\Media_file.deps.json
+C:\Users\user\Documents\MediaTracker\Media_file\bin\Debug\net8.0\Media_file.dll
+C:\Users\user\Documents\MediaTracker\Media_file\bin\Debug\net8.0\Media_file.pdb
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\Media_file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\Media_file.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\Media_file.AssemblyInfo.cs
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\Media_file.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\Media_file.dll
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\refint\Media_file.dll
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\Media_file.pdb
+C:\Users\user\Documents\MediaTracker\Media_file\obj\Debug\net8.0\ref\Media_file.dll

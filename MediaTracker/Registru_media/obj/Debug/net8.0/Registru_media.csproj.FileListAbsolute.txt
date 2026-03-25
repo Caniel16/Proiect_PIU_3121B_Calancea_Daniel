@@ -1,0 +1,15 @@
+C:\Users\user\Documents\MediaTracker\Registru_media\bin\Debug\net8.0\Registru_media.deps.json
+C:\Users\user\Documents\MediaTracker\Registru_media\bin\Debug\net8.0\Registru_media.dll
+C:\Users\user\Documents\MediaTracker\Registru_media\bin\Debug\net8.0\Registru_media.pdb
+C:\Users\user\Documents\MediaTracker\Registru_media\bin\Debug\net8.0\Media_file.dll
+C:\Users\user\Documents\MediaTracker\Registru_media\bin\Debug\net8.0\Media_file.pdb
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.csproj.AssemblyReference.cache
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.AssemblyInfoInputs.cache
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.AssemblyInfo.cs
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru.E9EA8172.Up2Date
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.dll
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\refint\Registru_media.dll
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\Registru_media.pdb
+C:\Users\user\Documents\MediaTracker\Registru_media\obj\Debug\net8.0\ref\Registru_media.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MediaTracker/1.0.0": {
+        "dependencies": {
+          "Media_file": "1.0.0",
+          "Registru_media": "1.0.0"
+        },
+        "runtime": {
+          "MediaTracker.dll": {}
+        }
+      },
+      "Media_file/1.0.0": {
+        "runtime": {
+          "Media_file.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Registru_media/1.0.0": {
+        "dependencies": {
+          "Media_file": "1.0.0"
+        },
+        "runtime": {
+          "Registru_media.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Media_file/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Registru_media/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
