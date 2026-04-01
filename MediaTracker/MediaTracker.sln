@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registru_media", "Registru_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media_file", "Media_file\Media_file.csproj", "{4F1B8B05-42F6-4B7F-85DB-0C02374A200C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocareDate", "StocareDate\StocareDate.csproj", "{DF1FA5E9-7961-4B9B-B68F-EA4C7D0D12B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media_playlist", "Media_playlist\Media_playlist.csproj", "{43CD523F-6D3C-417C-A125-19F8906C65E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4F1B8B05-42F6-4B7F-85DB-0C02374A200C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F1B8B05-42F6-4B7F-85DB-0C02374A200C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F1B8B05-42F6-4B7F-85DB-0C02374A200C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF1FA5E9-7961-4B9B-B68F-EA4C7D0D12B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1FA5E9-7961-4B9B-B68F-EA4C7D0D12B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1FA5E9-7961-4B9B-B68F-EA4C7D0D12B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1FA5E9-7961-4B9B-B68F-EA4C7D0D12B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
