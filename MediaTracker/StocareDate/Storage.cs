@@ -5,7 +5,7 @@ namespace StocareDate
 {
     public class Storage
     {
-        private string filePath = "library.txt";
+        private string filePath = "C:\\Users\\user\\Documents\\MediaTracker\\MediaTracker\\bin\\Debug\\net8.0\\library.txt";
 
         public void Save(List<MediaFile> files)
         {

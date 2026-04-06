@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocareDate", "StocareDate\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media_playlist", "Media_playlist\Media_playlist.csproj", "{43CD523F-6D3C-417C-A125-19F8906C65E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaTracker_UI", "MediaTracker_UI\MediaTracker_UI.csproj", "{3CB64FB1-DC6B-4900-AC22-38F2DF62E641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43CD523F-6D3C-417C-A125-19F8906C65E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB64FB1-DC6B-4900-AC22-38F2DF62E641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB64FB1-DC6B-4900-AC22-38F2DF62E641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB64FB1-DC6B-4900-AC22-38F2DF62E641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB64FB1-DC6B-4900-AC22-38F2DF62E641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
