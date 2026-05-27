@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWindowsForms>true</UseWindowsForms>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+<ItemGroup>
+    <PackageReference Include="Microsoft.VisualBasic" Version="10.2.0" />
+</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Media_file\Media_file.csproj" />
+    <ProjectReference Include="..\Media_playlist\Media_playlist.csproj" />
+    <ProjectReference Include="..\StocareDate\StocareDate.csproj" />
+  </ItemGroup>
+
+</Project>
